@@ -208,5 +208,3 @@ Mozilla Developer Network (MDN) (n.d.) *Responsive design*. Available at: https:
 Mozilla Developer Network (MDN) (n.d.) *HTML: HyperText Markup Language*. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML (Accessed: 2 November 2026).
 
 Google (n.d.) *Google Fonts*. Available at: https://fonts.google.com/ (Accessed: 2 November 2026).
-
-
